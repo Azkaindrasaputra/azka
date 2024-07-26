@@ -1,0 +1,47 @@
+.tengah {
+    text-align: center;
+}
+.table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: auto;
+    margin-right: 450px;
+}
+.table1 {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+    margin-right: 450px;
+}
+    .table2 {
+        margin: 0 auto;
+        border-collapse: collapse;
+        width: 100%;
+        margin-right: 450px;
+}
+.td {
+    text-align: left;
+}
+.tr {
+    background-color: rgb(228, 206, 38);
+}
+.navbar {
+    height: 40px;
+    background-color: rgb(22, 22, 204)
+    padding 0px;
+    text-align: center;
+    font-size: large;
+    margin-top: 10px;
+    background-image: url(bocil.jpg);
+}
+a {
+    color: rgb(238, 117, 24);
+    text-decoration: none;
+    display: inline-block;
+    background-color: rgba(34, 35, 35, 0.986);
+    padding: 10px;
+    border-color: rgb(85, 0, 255);
+}
+.navbar {
+    background-repeat: no-repeat;
+}
